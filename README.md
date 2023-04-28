@@ -1,6 +1,6 @@
 # Lecture notes and coding practice   
 
-# Course notes. 
+# Complete-python course material
 
 ### in this folder, you will find useful lecture notes ranging from the fundamental Python basics to advanced Python knowledge
 ## Practice. 
